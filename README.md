@@ -4,6 +4,7 @@ Cleaning Data Week 4 Assignment
 This is the final graded assignment for the Coursera Getting and Cleaning Data Module.
 
 Instructions
+
 The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set.
 
 Review Criteria
